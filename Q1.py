@@ -83,6 +83,4 @@ Individual dictionaries of lists not the best way to keep track of messages:
 Slightly inefficient hashing by using strings:
   May be marginally faster to use numeric IDs
   User or Conversation IDs would also solve name uniqueness
-    
-
 """
